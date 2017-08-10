@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder/bin/Debug/netcoreapp1.1/WeekdayFinder.deps.json
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder/bin/Debug/netcoreapp1.1/WeekdayFinder.runtimeconfig.json
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder/bin/Debug/netcoreapp1.1/WeekdayFinder.runtimeconfig.dev.json
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder/obj/Debug/netcoreapp1.1/WeekdayFinder.AssemblyInfo.cs
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder/bin/Debug/netcoreapp1.1/WeekdayFinder.dll
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder/bin/Debug/netcoreapp1.1/WeekdayFinder.pdb
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder/obj/Debug/netcoreapp1.1/WeekdayFinder.dll
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder/obj/Debug/netcoreapp1.1/WeekdayFinder.pdb

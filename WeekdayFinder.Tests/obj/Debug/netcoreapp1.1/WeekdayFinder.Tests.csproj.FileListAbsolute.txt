@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/bin/Debug/netcoreapp1.1/WeekdayFinder.Tests.deps.json
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/bin/Debug/netcoreapp1.1/WeekdayFinder.Tests.runtimeconfig.json
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/bin/Debug/netcoreapp1.1/WeekdayFinder.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/obj/Debug/netcoreapp1.1/WeekdayFinder.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/bin/Debug/netcoreapp1.1/WeekdayFinder.Tests.dll
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/bin/Debug/netcoreapp1.1/WeekdayFinder.Tests.pdb
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/bin/Debug/netcoreapp1.1/WeekdayFinder.dll
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/bin/Debug/netcoreapp1.1/WeekdayFinder.pdb
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/obj/Debug/netcoreapp1.1/WeekdayFinder.Tests.dll
+/Users/Guest/Desktop/WeekdayFinder.Solutions/WeekdayFinder.Tests/obj/Debug/netcoreapp1.1/WeekdayFinder.Tests.pdb
